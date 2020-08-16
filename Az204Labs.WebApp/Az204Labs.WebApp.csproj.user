@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <NameOfLastUsedPublishProfile>az-204-labs-webappjgzol3mgy2ju4 - Web Deploy</NameOfLastUsedPublishProfile>
+    <NameOfLastUsedPublishProfile>az-204-labs-webapp - Web Deploy</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

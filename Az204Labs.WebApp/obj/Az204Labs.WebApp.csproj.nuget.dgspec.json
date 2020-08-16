@@ -39,6 +39,20 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Azure.Identity": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Azure.Security.KeyVault.Secrets": {
+              "target": "Package",
+              "version": "[4.1.0, )"
+            },
+            "Microsoft.Azure.KeyVault": {
+              "target": "Package",
+              "version": "[3.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

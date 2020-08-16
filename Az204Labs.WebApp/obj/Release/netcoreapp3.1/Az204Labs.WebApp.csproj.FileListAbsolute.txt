@@ -1,7 +1,6 @@
 C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\appsettings.Development.json
 C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\appsettings.json
 C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Properties\launchSettings.json
-C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\az-204-labs-webappjgzol3mgy2ju4 - Web Deploy\profile.arm.json
 C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Az204Labs.WebApp.exe
 C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Az204Labs.WebApp.deps.json
 C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Az204Labs.WebApp.runtimeconfig.json
@@ -36,3 +35,17 @@ C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\obj\Release\netcoreapp
 C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\obj\Release\netcoreapp3.1\Az204Labs.WebApp.pdb
 C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\obj\Release\netcoreapp3.1\Az204Labs.WebApp.genruntimeconfig.cache
 C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\obj\Release\netcoreapp3.1\Az204Labs.WebApp.csproj.CopyComplete
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\az-204-labs-webapp - Web Deploy\profile.arm.json
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Azure.Core.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Azure.Identity.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\base.ADR\source\repos\Az204Labs\Az204Labs.WebApp\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll

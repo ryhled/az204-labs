@@ -4,6 +4,7 @@
   "parameters": {
     "az-204-labs-webapp-planName": {
       "type": "string",
+      "defaultValue": "az-204-labs-webapp-plan",
       "minLength": 1
     },
     "az-204-labs-webapp-planSkuName": {
@@ -28,7 +29,8 @@
       }
     }},
   "variables": {
-    "az-204-labs-webappName": "[concat('az-204-labs-webapp', uniqueString(resourceGroup().id))]"},
+    "az-204-labs-webappName": "az-204-labs-webapp"
+  },
   "resources": [
     {
       "name": "[parameters('az-204-labs-webapp-planName')]",
